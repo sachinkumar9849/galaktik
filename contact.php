@@ -82,7 +82,7 @@
                         <div class="contact-icon">📍</div>
                         <div class="contact-details">
                             <h3>Office Address</h3>
-                            <p>123 Tech Street, Suite 400<br>Innovation District, NY 10001</p>
+                            <p>Balaju-16, Kathmandu, <br>Nepal</p>
                         </div>
                     </div>
 
@@ -90,7 +90,7 @@
                         <div class="contact-icon">📞</div>
                         <div class="contact-details">
                             <h3>Phone</h3>
-                            <p>+1 (555) 123-4567</p>
+                            <p>+977-9843599656</p>
                         </div>
                     </div>
 
@@ -98,7 +98,7 @@
                         <div class="contact-icon">✉️</div>
                         <div class="contact-details">
                             <h3>Email</h3>
-                            <p>hello@techsolutions.com</p>
+                            <p>info@galaktiknepal.com.np</p>
                         </div>
                     </div>
 
@@ -106,7 +106,7 @@
                         <div class="contact-icon">🕒</div>
                         <div class="contact-details">
                             <h3>Business Hours</h3>
-                            <p>Mon - Fri: 9:00 AM - 6:00 PM<br>Sat: 10:00 AM - 4:00 PM</p>
+                            <p>Mon - Fri: 9:00 AM - 6:00 PM</p>
                         </div>
                     </div>
 

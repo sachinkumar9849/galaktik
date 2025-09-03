@@ -38,16 +38,16 @@
                                     </div>
                                     <ul class="footerLink">
                                         <li>
-                                            <a href="">Home</a>
+                                            <a href="index.php">Home</a>
                                         </li>
                                          <li>
-                                            <a href="">About Us</a>
+                                            <a href="about.php">About Us</a>
                                         </li>
                                          <li>
-                                            <a href="">Blog</a>
+                                            <a href="blog-list.php">Blog</a>
                                         </li>
                                          <li>
-                                            <a href="">Contact Us</a>
+                                            <a href="contact.php">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -64,20 +64,20 @@
                                     </div>
                                     <ul class="footerLink">
                                         <li>
-                                            <a href="">Digital
+                                            <a href="service-detail.php">Digital
                                                                         Marketing</a>
                                         </li>
                                          <li>
-                                            <a href="">Advertising</a>
+                                            <a href="service-detail.php">Advertising</a>
                                         </li>
                                          <li>
-                                            <a href="">Web
+                                            <a href="service-detail.php">Web
                                                                         /Apps Development</a>
                                         </li>
                                          <li>
 
                                         
-                                            <a href="">Mobile
+                                            <a href="service-detail.php">Mobile
                                                                         App</a>
                                         </li>
                                     </ul>

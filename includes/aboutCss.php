@@ -230,6 +230,7 @@ h2.bannerTitle {
     text-align: center;
     color: #181621;
     font-size: 60px;
+        margin-bottom: 0;
 }
 
 .elementor-6145 .elementor-element.elementor-element-71a3d2c .trx_addons_bg_text {
@@ -1553,4 +1554,5 @@ h2.bannerTitle {
     object-fit: cover;
 }
 </style>
+    
 

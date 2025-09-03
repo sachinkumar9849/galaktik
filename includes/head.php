@@ -24,48 +24,48 @@
     <meta property="og:url" content="assets/image/logo.jpg" />
     <meta property="og:title" content="Digital Agency" />
     <meta property="og:description" content="Creative				
-					solutions				
-					Digital Excellence, Redefined				
-		Innovative minds delivering branding, storytelling, and content daily.		
-																														
-			
-			
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-					Innovative branding that clients trust!				
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-					Tailored service offerings				
-					Select the ideal plan for you				
-		At ITactics, we offer customized service packages designed to meet your unique business requirements. Our solutions are crafted to provide exceptional value while ensuring your satisfaction.		
-					
-									Services
-					
-								
-									
-							Creative solutions						
-					
-									
-						We empower businesses through innovative solutions.					
-								
-									
-							IT solutions						
-					
-									
-						Creating impactful" />
+                    solutions				
+                    Digital Excellence, Redefined				
+        Innovative minds delivering branding, storytelling, and content daily.		
+                                                                                                                        
+            
+            
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                    Innovative branding that clients trust!				
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                    Tailored service offerings				
+                    Select the ideal plan for you				
+        At ITactics, we offer customized service packages designed to meet your unique business requirements. Our solutions are crafted to provide exceptional value while ensuring your satisfaction.		
+                    
+                                    Services
+                    
+                                
+                                    
+                            Creative solutions						
+                    
+                                    
+                        We empower businesses through innovative solutions.					
+                                
+                                    
+                            IT solutions						
+                    
+                                    
+                        Creating impactful" />
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/itactics.themerex.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2" } };
@@ -5204,9 +5204,9 @@
             --container-widget-flex-grow: 1;
             --container-widget-align-self: stretch;
             --flex-wrap-mobile: wrap;
-           
+
             --padding-top: 0vw;
-        
+
             --padding-left: 0vw;
             --padding-right: 0vw;
         }
@@ -5305,7 +5305,7 @@
             --container-widget-align-self: stretch;
             --flex-wrap-mobile: wrap;
             --align-items: center;
-                margin-top: -117px;
+            margin-top: -117px;
         }
 
         .elementor-21 .elementor-element.elementor-element-3f99701 .trx_addons_bg_text {
@@ -5543,7 +5543,7 @@
             }
         }
     </style>
-       <style type="text/css" id="trx_addons-inline-styles-inline-css">
+    <style type="text/css" id="trx_addons-inline-styles-inline-css">
         .trx_addons_inline_111334094 img.logo_image {
             max-height: 35px;
         }
@@ -5593,58 +5593,66 @@
             }
         }
 
-li {
-    list-style: none;
-}
-.footerTitle h3 {
-color: #d0d2e8;
-    font-size: 26px;
-    font-weight: 600;
-    font-family: var(--theme-font-h4_font-family);
-}
-ul.footerLink {}
+        li {
+            list-style: none;
+        }
 
-ul.footerLink {
-    padding: 0;
-}
+        .footerTitle h3 {
+            color: #d0d2e8;
+            font-size: 26px;
+            font-weight: 600;
+            font-family: var(--theme-font-h4_font-family);
+        }
 
-ul.footerLink li a {
-    color: white;
-    font-size: 17px;
-    margin-bottom: 13px;
-    display: block;
-}
-.footerTitle h3 span {
-    position: relative;
-    display: inline-block;
-}
+        ul.footerLink {}
 
-.footerTitle h3 span::before {
-    content: "";
-    position: absolute;
-    bottom: -9px;
-    left: 0;
-    width: 70%;
-    height: 2px;
-    background: #cf1a22;
+        ul.footerLink {
+            padding: 0;
+        }
+
+        ul.footerLink li a {
+            color: white;
+            font-size: 17px;
+            margin-bottom: 13px;
+            display: block;
+                z-index: 9;
+        }
+iframe#tidio-chat-iframe {
+    display: none !important;
 }
-ul.footerLink {
-    padding: 0;
-    margin-top: 23px;
-}
- .footerLink {
+        .footerTitle h3 span {
+            position: relative;
+            display: inline-block;
+        }
+
+        .footerTitle h3 span::before {
+            content: "";
+            position: absolute;
+            bottom: -9px;
+            left: 0;
+            width: 70%;
+            height: 2px;
+            background: #cf1a22;
+        }
+
+        ul.footerLink {
+            padding: 0;
+            margin-top: 23px;
+        }
+
+        .footerLink {
             list-style: none;
             padding: 0;
             margin: 0;
             font-family: Arial, sans-serif;
         }
-        
+
         .footerLink li {
             margin-bottom: 10px;
             display: flex;
             align-items: center;
         }
-        
+
         .footerLink a {
             text-decoration: none;
             color: #333;
@@ -5652,44 +5660,46 @@ ul.footerLink {
             align-items: center;
             gap: 8px;
         }
-        
+
         .footerLink a:hover {
             color: #007bff;
         }
-        
-  .icon {
-    width: 20px;
-    height: 20px;
-    fill: currentColor;
-    flex-shrink: 0;
-    transform: translateY(5px);
-    margin-right: 10px;
-}
-section.bannerWrap {
-    margin-top: 106px;
-    border-top: 1px solid #dcdcdcad;
-}
-.bannerWrapDetail p {
-    padding-bottom: 0;
-    color: black;
-    margin-bottom: 0;
-    font-size: 14px;
-    text-transform: uppercase;
-    line-height: 1em;
-    letter-spacing: 1.12px;
-}
 
-.bannerWrapDetail h2 {
-    margin: 0;
-    padding-top: 14px;
-}
+        .icon {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+            flex-shrink: 0;
+            transform: translateY(5px);
+            margin-right: 10px;
+        }
 
-.bannerWrapDetail {
-    text-align: center;
-    padding: 100px 0;
-}
+        section.bannerWrap {
+            margin-top: 106px;
+            border-top: 1px solid #dcdcdcad;
+        }
 
- .tagline {
+        .bannerWrapDetail p {
+            padding-bottom: 0;
+            color: black;
+            margin-bottom: 0;
+            font-size: 14px;
+            text-transform: uppercase;
+            line-height: 1em;
+            letter-spacing: 1.12px;
+        }
+
+        .bannerWrapDetail h2 {
+            margin: 0;
+            padding-top: 14px;
+        }
+
+        .bannerWrapDetail {
+            text-align: center;
+            padding: 100px 0;
+        }
+
+        .tagline {
             font-size: 1.2rem;
             color: #666;
             font-weight: 300;
@@ -5732,15 +5742,23 @@ section.bannerWrap {
             right: -50%;
             width: 100%;
             height: 100%;
-            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
             transform: rotate(45deg);
             animation: shine 3s infinite;
         }
 
         @keyframes shine {
-            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
-            50% { transform: translateX(100%) translateY(100%) rotate(45deg); }
-            100% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+            0% {
+                transform: translateX(-100%) translateY(-100%) rotate(45deg);
+            }
+
+            50% {
+                transform: translateX(100%) translateY(100%) rotate(45deg);
+            }
+
+            100% {
+                transform: translateX(-100%) translateY(-100%) rotate(45deg);
+            }
         }
 
         .form-title {
@@ -5776,7 +5794,9 @@ section.bannerWrap {
             transition: color 0.3s ease;
         }
 
-        input, textarea, select {
+        input,
+        textarea,
+        select {
             width: 100%;
             padding: 15px;
             border: 2px solid #e0e0e0;
@@ -5786,7 +5806,9 @@ section.bannerWrap {
             background: #fafafa;
         }
 
-        input:focus, textarea:focus, select:focus {
+        input:focus,
+        textarea:focus,
+        select:focus {
             outline: none;
             border-color: #181c61;
             background: white;
@@ -5865,9 +5887,11 @@ section.bannerWrap {
         }
 
         .contact-details p {
-            opacity: 0.9;
-            font-size: 0.95rem;
-        }
+             opacity: 0.9;
+    font-size: 0.95rem;
+    margin-bottom: 0;
+}
+        
 
         .map-section {
             background: white;
@@ -5929,8 +5953,15 @@ section.bannerWrap {
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         @media (max-width: 768px) {
@@ -5938,20 +5969,21 @@ section.bannerWrap {
                 grid-template-columns: 1fr;
                 gap: 30px;
             }
-            
-            .contact-form, .contact-info {
+
+            .contact-form,
+            .contact-info {
                 padding: 30px 20px;
             }
-            
+
             .logo {
                 font-size: 2rem;
             }
-            
+
             .contact-item {
                 flex-direction: column;
                 text-align: center;
             }
-            
+
             .contact-icon {
                 margin: 0 0 15px 0;
             }
@@ -5978,47 +6010,61 @@ section.bannerWrap {
         }
 
         @keyframes float {
-            0%, 100% { transform: translateY(0) rotate(0deg); }
-            50% { transform: translateY(-20px) rotate(180deg); }
+
+            0%,
+            100% {
+                transform: translateY(0) rotate(0deg);
+            }
+
+            50% {
+                transform: translateY(-20px) rotate(180deg);
+            }
         }
-         .container {
+
+        .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
         }
+
         .contact-info h2 {
-    font-size: 2rem;
-    margin-bottom: 30px;
-    text-align: center;
-    color: white;
-}
-.contact-details h3 {
-    color: white;
-}
-.map-placeholder iframe.itactics_resize.trx_addons_resize {
-    width: 100%;
-    height: 100%;
-}
-.sectionWrap {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-.sectionWrap .elementor-element {
-    margin-bottom: 0;
-}
-.productSec {
-    padding-top: 100px;
-}
+            font-size: 2rem;
+            margin-bottom: 30px;
+            text-align: center;
+            color: white;
+        }
+
+        .contact-details h3 {
+            color: white;
+        }
+
+        .map-placeholder iframe.itactics_resize.trx_addons_resize {
+            width: 100%;
+            height: 100%;
+        }
+
+        .sectionWrap {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .sectionWrap .elementor-element {
+            margin-bottom: 0;
+        }
+
+        .productSec {
+            padding-top: 100px;
+        }
 
 
 
- .portfolio-container {
-                padding-left: 70px;
-    padding-right: 70px;
+        .portfolio-container {
+            padding-left: 70px;
+            padding-right: 70px;
             margin: 0 auto;
-           
+
             position: relative;
         }
 
@@ -6038,14 +6084,19 @@ section.bannerWrap {
             left: -50%;
             width: 200%;
             height: 200%;
-            background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
             background-size: 30px 30px;
             animation: float 20s linear infinite;
         }
 
         @keyframes float {
-            0% { transform: translate(0, 0) rotate(0deg); }
-            100% { transform: translate(-30px, -30px) rotate(360deg); }
+            0% {
+                transform: translate(0, 0) rotate(0deg);
+            }
+
+            100% {
+                transform: translate(-30px, -30px) rotate(360deg);
+            }
         }
 
         .portfolio-header h1 {
@@ -6054,7 +6105,7 @@ section.bannerWrap {
             margin-bottom: 15px;
             position: relative;
             z-index: 2;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
         }
 
         .portfolio-header p {
@@ -6063,29 +6114,31 @@ section.bannerWrap {
             position: relative;
             z-index: 2;
         }
-.portfolio-container {
-    padding-left: 70px;
-    padding-right: 70px;
-    margin: 0 auto;
-    position: relative;
-    padding-top: 111px;
-}
-.elementor-5607 .elementor-element.elementor-element-58c6fa7>.elementor-widget-container {
-    margin: 0px 0px 37px 0px;
-}
+
+        .portfolio-container {
+            padding-left: 70px;
+            padding-right: 70px;
+            margin: 0 auto;
+            position: relative;
+            padding-top: 111px;
+        }
+
+        .elementor-5607 .elementor-element.elementor-element-58c6fa7>.elementor-widget-container {
+            margin: 0px 0px 37px 0px;
+        }
 
         .tab-button {
-    background: transparent;
-    border: none;
-    padding: 12px 25px;
-    font-size: 16px;
-    font-weight: 600;
-    color: #666;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    position: relative;
-    white-space: nowrap;
-    min-width: 107px;
+            background: transparent;
+            border: none;
+            padding: 12px 25px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            white-space: nowrap;
+            min-width: 107px;
         }
 
         .tab-button:hover {
@@ -6094,23 +6147,24 @@ section.bannerWrap {
         }
 
         .tab-button.active {
-      color: white;
-    border-radius: 50px;
-    background: #101354;
-           
-        }
-.tab-container {
-    display: inline-block;
-    -webkit-box-shadow: 0 0 30px 0 rgba(67, 67, 67, 0.15);
-    box-shadow: 0 0 30px 0 rgba(67, 67, 67, 0.15);
-      padding: 10px 20px;
-   
-    border-radius: 50px;
-   
-}
-       
+            color: white;
+            border-radius: 50px;
+            background: #101354;
 
-     
+        }
+
+        .tab-container {
+            display: inline-block;
+            -webkit-box-shadow: 0 0 30px 0 rgba(67, 67, 67, 0.15);
+            box-shadow: 0 0 30px 0 rgba(67, 67, 67, 0.15);
+            padding: 10px 20px;
+
+            border-radius: 50px;
+
+        }
+
+
+
 
         .tab-content {
             display: none;
@@ -6126,6 +6180,7 @@ section.bannerWrap {
                 opacity: 0;
                 transform: translateY(30px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
@@ -6170,18 +6225,20 @@ section.bannerWrap {
             transform: translate(-50%, -50%);
             width: 60px;
             height: 60px;
-            border: 3px solid rgba(255,255,255,0.3);
+            border: 3px solid rgba(255, 255, 255, 0.3);
             border-radius: 50%;
             border-top-color: white;
             animation: spin 2s linear infinite;
         }
 
         @keyframes spin {
-            to { transform: translate(-50%, -50%) rotate(360deg); }
+            to {
+                transform: translate(-50%, -50%) rotate(360deg);
+            }
         }
 
         .project-info {
-          padding: 17px 0 8px 20px;
+            padding: 17px 0 8px 20px;
         }
 
         .project-title {
@@ -6300,33 +6357,36 @@ section.bannerWrap {
             .portfolio-header h1 {
                 font-size: 2.5rem;
             }
-            
+
             .project-grid {
                 grid-template-columns: 1fr;
             }
-            
+
             .tab-container {
                 justify-content: flex-start;
             }
-            
+
             .portfolio-content {
                 padding: 20px;
             }
         }
 
-.pt_0 {
-    padding-top: 0;
-}
-.paddingButtom {
-    padding-bottom: 100px;
-}
+        .pt_0 {
+            padding-top: 0;
+        }
+
+        .paddingButtom {
+            padding-bottom: 100px;
+        }
     </style>
+
+    
     <link rel="icon" href="assets/image/logo.jpg" sizes="32x32" />
     <link rel="icon" href="assets/image/logo.jpg" sizes="192x192" />
     <link rel="apple-touch-icon" href="assets/image/logo.jpg" />
     <meta name="msapplication-TileImage" content="assets/image/logo.jpg" />
 
- 
 
-    <link  type='text/css' media='all'  href="assets/css/style.css" />
+
+    <link type='text/css' media='all' href="assets/css/style.css" />
 </head>
